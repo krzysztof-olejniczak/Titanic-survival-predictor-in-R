@@ -1,0 +1,26 @@
+* {
+	font-family: 'Arabic Typesetting';
+}
+body {
+	text-align: left;
+}
+.container {
+	width: 1000px;
+	background: #edededff;
+	padding: 40px;
+}
+h2 {
+	font-size: 60px;
+}
+h3 {
+	font-size: 30px;
+}
+.input, .form-control{
+	font-size: 20px !important;
+}
+.action-button {
+	font-size: 20px;
+}
+.titanicPhoto {
+	margin-top: 40px;
+}
